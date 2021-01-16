@@ -1,0 +1,52 @@
+body{
+  background-color:yellow;
+  color:black;
+  font-size:16px;
+}
+h1{
+  color:red;
+  text-align:center;
+  text-decoration: underline;
+  margin:auto;
+}
+h2{
+  color:brown;
+  text-align:left;
+  text-decoration: underline;
+}
+ol{
+  list-style-type: upper-roman;
+  list-style-position: inside;
+}
+p{
+  font-style:italic;
+  font-family: sans-serif;
+
+}
+table,th,td{
+  border: 1px solid black;
+}
+table{
+  width:100%;
+}
+td{
+  text-align:center;
+}
+th{
+  background-color:#4CAF50;
+  color:white;
+}
+input{
+  width:100%;
+  border: 2px solid red;
+}
+button{
+  color:black;
+  padding:2px;
+  margin:20px;
+}
+footer{
+  text-align: right;
+  font-style: italic;
+  font-size: 10px;
+}
